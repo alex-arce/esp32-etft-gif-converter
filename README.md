@@ -1,6 +1,6 @@
 # eTFT GIF Converter
 
-GIF to header (.h) generator
+GIF to header (.h) generator for the ESP32 eTFT screens. [WIP]
 
 ### Pre-requisites
 
