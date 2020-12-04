@@ -8,3 +8,8 @@ Resize the gif or crop it:
 ```
 convert walk.gif -resize 25% walk-resized.gif
 ```
+
+### Usage
+```
+./eTFT-gif-converter.py -i <RESIZED_AND_CROPPED_ANIM.gif> -o <HEADER_NAME>.h
+```
