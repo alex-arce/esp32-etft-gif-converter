@@ -60,3 +60,4 @@ void loop() {
 
 Full implementation example [here](https://github.com/hpsaturn/esp32-etft-gif-animation-test)
 
+<a href="https://github.com/hpsaturn/esp32-etft-gif-animation-test" target="_blank"><img src="https://raw.githubusercontent.com/hpsaturn/esp32-etft-gif-animation-test/master/images/ttgo-tdisplay-demo.gif"></a>
